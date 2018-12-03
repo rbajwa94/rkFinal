@@ -8,5 +8,10 @@ function theme_enqueue_styles() {
    );
 }
 function dynamicCopyright(){
-    
+
 }
+?>
+<!-- Begin Comment
+<?php comments_template( '', true ); ?>
+End Comment -->
+
